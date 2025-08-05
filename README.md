@@ -2,7 +2,7 @@
 
 A real-time embedded control and autonomous navigation system for a 1/10th scale electric RC vehicle. Developed using ROS on a Jetson Nano, the system integrates LiDAR and IMU-based localization, mapping, and control algorithms to enable manual, semi-autonomous, and fully autonomous driving modes.
 
-
+- 📚 **Overview:**  
 ---
 
 ## 🔥 Key Features
@@ -113,4 +113,3 @@ roslaunch macaev_control macaev_main.launch
 
 ---
 
-> ⚠️ *Note: This repository is intended as a professional showcase of embedded and autonomous systems integration work. Lab reports are excluded for clarity.*
