@@ -108,8 +108,4 @@ roslaunch macaev_control macaev_main.launch
 - 🧠 **Project Overview Slides:**  
   [📎 https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/MacAEV_Overview.pptx
 
-- 📚 **Course Outline:**  
-  [📎 ELECENG 3EY4 Course Outline (Winter 2025)](./docs/2025_01_02_ElecEng_3EY4_outline_Winter2025.pdf)
-
----
 
