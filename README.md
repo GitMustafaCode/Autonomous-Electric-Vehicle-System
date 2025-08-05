@@ -65,4 +65,58 @@ Clone this repository:
 ```bash
 git clone https://github.com/YourUsername/AEV-Autonomous-Car.git
 cd AEV-Autonomous-Car
+```
 
+Install required Python packages:
+
+```bash
+pip install numpy matplotlib open3d
+```
+
+Run the launch file to bring up the control system:
+
+```bash
+roslaunch aev_system aev_main.launch
+```
+
+---
+
+## 🧠 How It Works
+
+### Manual Control & Calibration
+The vehicle can be manually controlled for testing. Odometry is calibrated using wheel encoder and LiDAR data.
+
+### Localization & Mapping
+A Grid Occupancy Mapping algorithm is developed using LiDAR, IMU, and wheel odometry data.
+
+### Autonomous Navigation
+Virtual barriers are constructed using Quadratic Optimization. A PD + feedback-linearizing controller keeps the vehicle between the barriers.
+
+### Bonus - RGB-D Integration
+Depth data from the RGB-D camera is fused with LiDAR data to enhance obstacle detection and mapping.
+
+---
+
+## 📁 Code Structure
+
+```
+.
+├── aev_control/            # Autonomous control algorithms
+├── aev_localization/      # Localization and mapping nodes
+├── aev_launch/            # ROS launch files
+├── aev_vision/            # RGB-D camera integration (bonus)
+├── scripts/               # Python scripts for testing and visualization
+├── docs/                  # Images and diagrams
+└── README.md
+```
+
+---
+
+## ✅ Features
+
+✔️ VESC Motor Control with ROS  
+✔️ Real-Time Localization with LiDAR and IMU  
+✔️ Autonomous Navigation using Virtual Barriers  
+✔️ PD + Feedback-Linearizing Controller  
+✔️ Optional RGB-D Stereo Vision Module  
+✔️ Modular ROS Nodes for Scalability
