@@ -4,9 +4,9 @@ An embedded control and autonomous navigation system for a 1/10th scale electrif
 
 ---
 
-📄 **Complete Project Report**  
+📄 **Complete Project Overview**  
 Read our full technical report explaining the system design, implementation, and testing:  
-[Final Project Report (PDF)](https://github.com/YourUsername/AEV-Autonomous-Car/blob/main/AEV_Final_Report.pdf)
+https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/Overview.png
 
 ---
 
