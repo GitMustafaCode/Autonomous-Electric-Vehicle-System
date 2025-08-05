@@ -11,7 +11,6 @@ A real-time embedded control and autonomous navigation system for a 1/10th scale
 ## 🧠 Project Overview
 
 ![MacAEV Project Overview](https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/Overview.png?raw=true)
-              *High-level system architecture and software flow.*
  
 ---
 
