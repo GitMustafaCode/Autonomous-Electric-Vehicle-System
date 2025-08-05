@@ -4,8 +4,7 @@ An embedded control and autonomous navigation system for a 1/10th scale electrif
 
 ---
 
-📄 **Complete Project Overview**  
-Read our full technical report explaining the system design, implementation, and testing:  
+📄 **Complete Project Overview**   
 https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/Overview.png
 
 ---
