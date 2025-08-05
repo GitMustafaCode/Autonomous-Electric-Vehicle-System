@@ -4,7 +4,7 @@ A real-time embedded control and autonomous navigation system for a 1/10th scale
 
 ## 🖼️ System Overview
 
-![MacAEV Hardware Setup]https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/AEV%20.png
+https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/AEV%20.png
 *Hardware Components of the MacAEV platform.*
 
 - 📚 **Overview:https://github.com/GitMustafaCode/Autonomous-Electric-Vehicle-System/blob/main/Overview.png**  
